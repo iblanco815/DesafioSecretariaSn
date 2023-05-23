@@ -10,9 +10,9 @@ Este es un proyecto de login y registro desarrollado con Node.js, Express y Reac
 
 ## Requisitos previos
 
-- Node.js (v14.17.0 o superior)
-- NPM (v7.20.0 o superior)
-- MySQL (v8.0 o superior)
+-Node.js (v14.17.0 o superior)
+-NPM (v7.20.0 o superior)
+-MySQL (v8.0 o superior)
 
 ## Instalación
 
@@ -29,10 +29,10 @@ DB_PASSWORD=tu_contraseña_de_mysql
 DB_DATABASE=login-register
 
 4. instala las dependencias:
-npm install   
+"npm install"
     
 5. Inicia el servidor:
-npm start
+"npm start"
 El servidor estará disponible en http://localhost:5000.
 
 ## Configuración del cliente
@@ -41,10 +41,10 @@ El servidor estará disponible en http://localhost:5000.
 REACT_APP_API_URL=http://localhost:5000
 
 7. instala las dependencias:
-npm install
+"npm install"
 
 9. Inicia la aplicación de React:
-npm start
+"npm start"
 La aplicación de React estará disponible en http://localhost:3000.
 
 ### Uso
